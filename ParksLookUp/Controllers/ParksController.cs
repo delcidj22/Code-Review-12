@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using ParksLookUp.Models;
 using Microsoft.AspNetCore.Http;
 
-namespace Parks.Controllers
+namespace ParksLookUp.Controllers
 {
   [Route("api/[controller]")]
   [ApiController]
